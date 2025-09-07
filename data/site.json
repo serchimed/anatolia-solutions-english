@@ -1,0 +1,39 @@
+{
+  "url": "anatolia.solutions",
+  "lang_urls": {
+    "EN": "anatolia.solutions",
+    "TR": "turkce.anatolia.solutions"
+  },
+  "read_text": "Visit thoughts page to delve into our evolving perspectives.",
+  "read_link_text": "Read Our Thoughts",
+  "meet_text": "For more information you can schedule a free preliminary information meeting",
+  "meet_text_discuss": "To discuss more of this topic with us you can schedule a free meeting",
+  "meet_link": "meet.anatolia.solutions",
+  "meet_link_text": "Schedule a Free Meeting",
+  "common_training_faq": [
+    {
+      "question": "Will a certificate be given at the end of the training?",
+      "answer": "<p>No, we do not provide a certificate at the end of the training because we believe certificates and diplomas are outdated. However, if you need proof of attendance, we can prepare a document for you.</p>"
+    },
+    {
+      "question": "Can we also take it as a classroom training in addition to distance learning?",
+      "answer": "<p>Yes, we can also plan it as a face-to-face classroom training when the number of people is sufficient.</p>"
+    },
+    {
+      "question": "May I request to retake the training?",
+      "answer": "<p>Yes.</p>"
+    }
+  ],
+  "common_faq": [
+    {
+      "question": "Is there a money-back guarantee?",
+      "answer": "<p>Yes.</p>"
+    }
+  ],
+  "products_text": "Products",
+  "services_text": "Services",
+  "thoughts_text": "Thoughts",
+  "questions_text": "Questions",
+  "why_buy_text": "Why Should You Buy?",
+  "pay_text": "Pay with Credit Card"
+}

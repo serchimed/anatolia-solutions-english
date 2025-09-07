@@ -1,0 +1,102 @@
+{
+  "products": [
+    {
+      "category": "Productivity Tools",
+      "category_url": "productivity-tools",
+      "name": "Agile Planner Notebook",
+      "price": "$10.00",
+      "url_name": "agile-planner-notebook",
+      "full_url": "anatolia.solutions/products/agile-planner-notebook.html",
+      "pay_url": "buy.stripe.com/6oE9B13ck9Pv5y09AH",
+      "keywords": "weekly planner, agile tools, scrum tools, planner, project management tools, progress tracking tools",
+      "images": [
+        "agile-planner-notebook.png",
+        "weekly-plan.png",
+        "swot-analysis.png",
+        "business-model-canvas.png"
+      ],
+      "html_desc": "The Agile Weekly Planner Notebook is a powerful tool for organized, goal-oriented productivity.",
+      "short_desc": "Agile Weekly Planner Notebook is designed for modern professionals and entrepreneurs who need distraction free planning. It perfectly combines planning and strategy, helping you see the big picture while keeping track of your tasks. The pen and paper format keeps you offline and fully focused, free from digital notifications and interruptions that can derail your productivity.",
+      "detail_desc": [
+        {
+          "title": "Weekly Plan Layout",
+          "content_html": "<ul><li><em>Comprehensive Daily Planning:</em> Structure each day with dedicated task lines featuring point value (P) and duration (D) tracking, plus integrated mood monitoring for complete daily awareness and time management.</li><li><em>Weekly Progress Assessment:</em> Begin each week by evaluating previous accomplishments, creating a continuous improvement cycle that builds momentum over time.</li><li><em>Holistic Life Planning:</em> Balance professional goals with personal development sections and quality time planning for friends and family, ensuring work-life integration rather than separation.</li><li><em>Strategic Problem Solving:</em> Dedicated space for identifying challenges and recognizing potential benefits, turning obstacles into opportunities for growth.</li></ul>"
+        },
+        {
+          "title": "Planner's Strategic Thinking Tools",
+          "content_html": "<ul><li><em>SWOT Analysis Framework:</em> Unlock your strategic potential with thoughtfully designed pages for analyzing strengths, weaknesses, opportunities, and threats.</li><li><em>Business Model Canvas:</em> Perfect for entrepreneurs who need clear visualization of essential business components including value propositions, customer segments, and revenue streams.</li></ul>"
+        }
+      ],
+      "why_buy": "Whether you're managing teams, scaling a startup, or pursuing ambitious personal goals, this notebook goes beyond traditional planning to become your dedicated productivity partner. It maintains your focus on both immediate tasks and long term strategies while ensuring you nurture personal relationships and self development. More than just a planning tool, it serves as a tangible memory for your project ideas and strategic insights that you can revisit and build upon. Keep your strategic plans secure and away from malicious eyes with this offline, physical format that protects your sensitive business insights from digital threats and data breaches. Take complete control of your time, ideas, and life balance with the Agile Weekly Planner Notebook."
+    },
+    {
+      "category": "Study Guides",
+      "category_url": "study-guides",
+      "name": "Talking to AI Study Guide in Turkish",
+      "price": "$10.00",
+      "url_name": "book-yapay-zeka-ile-konusmak",
+      "full_url": "anatolia.solutions/products/book-yapay-zeka-ile-konusmak.html",
+      "pay_url": "buy.stripe.com/cN2cNdcMU5zf1hKcMQ",
+      "keywords": "ai prompting book, artificial intelligence prompting, ai communication, ai study guide",
+      "images": [
+        "book-yapay-zeka-ile-konusmak.png"
+      ],
+      "html_desc": "A standalone, continuously updated study guide to master AI communication and prompt engineering with clear frameworks, templates, and practical exercises.",
+      "short_desc": "The Talking to AI Study Guide is a comprehensive, continuously updated resource for mastering AI communication. With clear explanations, practical templates, and hands on exercises, it helps you build strong prompt engineering skills and apply AI effectively in both analytical and creative work.This standalone guide evolves as AI technology advances, so you always stay up to date.",
+      "detail_desc": [
+        {
+          "title": "About the Book",
+          "content_html": "<p>The Talking to AI Study Guide is an independent and continuously updated resource designed to help readers master the art of communicating with artificial intelligence. It provides clear explanations of core AI concepts, from the foundations of artificial intelligence and large language models to ethical risks, real world case studies, and creative applications such as music and image generation.</p><p>In addition to theory, the guide offers practical frameworks, examples, and exercises to strengthen your skills in prompt design. It is structured for both beginners and experienced users, making it a reliable reference for anyone who wants to understand AI deeply and use it effectively in daily work or creative projects.</p><p>A major focus of the guide is prompt engineering. Readers will explore a wide range of techniques, including:</p><ul><li>Zero-Shot and Few-Shot Prompting</li><li>Interactive Prompt Chaining</li><li>Chain of Thought and Tree of Thoughts Prompting</li><li>Self-Consistency Prompting</li><li>Instruction Based Prompting</li><li>Direct Stimulus Prompting</li><li>Analogical Reasoning / Association Prompting</li><li>Meta Prompting</li><li>Template Based Prompting</li><li>Contrastive / Comparison / Contrast Prompting</li><li>Exploratory Prompting</li><li>Prompt Reframing</li><li>Conditional Prompting</li><li>Latent Space Activation</li><li>Role Playing / Scenario Based Prompting</li></ul><p>The study guide continually expands with new techniques, insights, and examples, providing readers with the most current strategies available. New sections are provided to buyers upon request.</p>"
+        }
+      ],
+      "why_buy": "Whether you're exploring AI for the first time or looking to sharpen advanced skills, the Talking to AI Study Guide is your essential reference for mastering human and AI communication. It breaks down complex concepts into clear explanations, provides ready to use prompt templates, and guides you with practical exercises. Continuously updated, it grows alongside the fast evolving AI landscape, ensuring you always have the latest techniques and best practices at hand. More than just a book, it's a living resource that helps you apply AI confidently in your work, creativity, and everyday problem solving.",
+      "info": "This study guide has currently been prepared only in Turkish. If you would like it to be available in other languages, feel free to make a request, and we will consider it."
+    },
+    {
+      "category": "Study Guides",
+      "category_url": "study-guides",
+      "name": "Software English Vocabulary Study Guide in Turkish and Practice Notebook",
+      "price": "$25.00",
+      "url_name": "book-programlama-ingilizcesi",
+      "full_url": "anatolia.solutions/products/book-programlama-ingilizcesi.html",
+      "pay_url": "buy.stripe.com/bIYbJ97sA5zfgcEbIN",
+      "keywords": "programmer terminology, software english, developer vocabulary",
+      "images": [
+        "book-programlama-ingilizcesi.png"
+      ],
+      "html_desc": "Learn 2,222 essential English words for software projects with Turkish translations and real Stack Overflow examples. Includes a practice notebook to reinforce learning.",
+      "short_desc": "The Software English Vocabulary Study Guide in Turkish and Practice Notebook provide a practical way to expand your English vocabulary with terms frequently used in the software world. With 2,222 words, Turkish translations, and real example sentences from Stack Overflow, this resource helps beginners and intermediate learners strengthen their technical English and use it confidently in real contexts.",
+      "detail_desc": [
+        {
+          "title": "About the Book",
+          "content_html": "<p>The Software English Vocabulary Study Guide in Turkish and Practice Notebook are designed to help learners expand their English vocabulary with words and phrases frequently used in the software industry. The guide contains 2,222 carefully selected terms, each accompanied by its Turkish translation and example sentences drawn from real software contexts. To make learning practical, the practice notebook allows you to reinforce and review what you've studied.</p><p>This special compilation also features examples taken from Stack Overflow, one of the largest knowledge sharing platforms in the software world. Many of these words and expressions are commonly encountered in technical discussions but often overlooked by traditional language resources. With authentic examples and clear translations, the guide makes it easier for beginners and intermediate learners to understand and confidently use English in professional software environments.</p>"
+        }
+      ],
+      "why_buy": "Whether you're collaborating with international teammates, preparing for a remote job opportunity, or simply aiming to strengthen your technical English, this guide provides the vocabulary you need. With 2,222 terms, translations, and context-rich examples, it's a powerful resource for turning English learning into practical communication skills. By learning vocabulary directly from authentic Stack Overflow examples, you'll not only improve your English but also see how these terms are used in actual technical conversations.",
+      "info": "This study guide has currently been prepared only in Turkish. If you would like it to be available in other languages, feel free to make a request, and we will consider it."
+    },
+    {
+      "category": "Study Guides",
+      "category_url": "study-guides",
+      "name": "Notorious Programming Related Faults in History Study Guide in Turkish",
+      "price": "$10.00",
+      "url_name": "book-tarihe-gecen-programatik-hatalar",
+      "full_url": "anatolia.solutions/products/book-tarihe-gecen-programatik-hatalar.html",
+      "pay_url": "buy.stripe.com/aFa4gA3NE4SDdAj452cQU0b",
+      "keywords": "famous programming bugs, history of software failures, programming lessons from past tech mistakes",
+      "images": [
+        "book-tarihe-gecen-programatik-hatalar.png"
+      ],
+      "html_desc": "Discover infamous software failures and security breaches in the Notorious Programming Related Faults in History Study Guide, and learn practical lessons to improve software reliability and prevent costly mistakes.",
+      "short_desc": "The Notorious Programming Related Faults in History Study Guide explores famous software failures and security breaches, showing how small mistakes led to major outages, data leaks, and financial losses. With clear explanations and lessons learned, it helps readers strengthen their critical thinking and understanding of software reliability.",
+      "detail_desc": [
+        {
+          "title": "About the Book",
+          "content_html": "<p>The Notorious Programming Related Faults in History Study Guide explores how real world software failures, security breaches, and programming mistakes have led to large scale incidents. From configuration errors and unsafe updates to weak authentication and overlooked vulnerabilities, the guide shows how small oversights can escalate into outages, data leaks, and financial losses affecting millions. These cases reveal the interconnected nature of modern systems and how flaws in one area can cascade across entire organizations.</p><p>Beyond technical details, the guide emphasizes the importance of building a security conscious mindset. Each case study includes clear explanations and post incident insights, helping readers understand not only what went wrong but also how recovery was managed. By combining storytelling with practical lessons, the guide turns notorious failures into valuable takeaways for preventing future mistakes.</p><p>Designed for both technical and non-technical readers, this resource makes complex incidents accessible and relevant. By the end, you'll be better prepared to recognize risks early, strengthen your understanding of software reliability, and contribute to more resilient practices in your work or organization.</p>"
+        }
+      ],
+      "why_buy": "The Notorious Programming Related Faults in History Study Guide turns famous software failures into practical lessons. Instead of simply listing bugs and crashes, it explains their root causes and what could have been done differently. By studying these real world cases, you'll sharpen your critical thinking, improve your understanding of software reliability, and gain insights that help you avoid costly mistakes in your own projects.",
+      "info": "This study guide has currently been prepared only in Turkish. If you would like it to be available in other languages, feel free to make a request, and we will consider it."
+    }
+  ]
+}

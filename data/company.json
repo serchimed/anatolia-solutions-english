@@ -1,0 +1,23 @@
+{
+  "name": "Anatolia Solutions LLC",
+  "slogan": "Illuminating the hidden side of software through our journey",
+  "html_desc": "Anatolia Solutions is a software company that provides special training, consultancy services and products.",
+  "vision": "We leverage our expertise in software, automation, and systems development to create products and services that combine robust technical infrastructure with strong ethical foundations, providing essential tools for societal advancement and self-mastery. Our mission is to empower dedicated individuals who strive to enhance global comfort and quality of life, helping them achieve greater safety and freedom. In an era where institutional trust has eroded, we believe that civilized society depends on uniting around shared values and fostering mutual development, and we're committed to building the technological backbone that makes this vision possible.",
+  "email": "serdar@anatolia.solutions",
+  "address": {
+    "TR": {
+      "phone": "+90 551 492 29 25",
+      "lines": [
+        "Yapracik, Etimesgut",
+        "Ankara 06815, Türkiye"
+      ]
+    },
+    "EN": {
+      "phone": "+1 307 288 24 45",
+      "lines": [
+        "525 Randall Ave Ste 100 #543, Cheyenne",
+        "Wyoming 82001, United States"
+      ]
+    }
+  }
+}

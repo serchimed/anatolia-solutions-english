@@ -1,0 +1,76 @@
+{
+  "thoughts": [
+    {
+      "title": "Why Interface First? (Frontend-First)",
+      "url_name": "why-interface-first",
+      "image": "why-interface-first.jpg",
+      "keywords": "frontend-first development, user experience design, prototyping, interface validation, agile product development",
+      "html_desc": "Discover the benefits of the frontend-first approach in software development, emphasizing user experience, cost optimization, and collaborative product design through early prototyping and interface validation.",
+      "short_desc": "The frontend-first approach prioritizes building a visual prototype early in development. This allows users to interact with and validate the product sooner, ensuring features meet real needs before investing in complex backend infrastructure. It leads to more efficient communication, reduces unnecessary work, lowers costs, and increases user ownership and acceptance of the final product.",
+      "content": [
+        "The frontend-first approach offers significant advantages by arranging user experience and visual consistency at the center of the development process.",
+        "First, we can defer investment in complex technical infrastructure by creating a prototype with basic functionality. Decision deferring in architecture allows users to interact with the product earlier and identify potentially unnecessary features while still in the development phase.",
+        "Early visual interface development enables us to validate real usage scenarios sooner. For example, in a financial analysis tool, a simple filtering module might be discovered to meet \"data comparison\" needs instead of complex algorithms. Similarly, in an e-commerce platform, understanding the priority of a \"quick payment\" function at an early stage allows requirements to be optimized accordingly.",
+        "The backend is shaped according to validated user needs in the interface-first approach, avoiding unnecessary API integrations or database optimizations.",
+        "Communication between developers and users becomes more efficient when it occurs through concrete screens. More precise questions can be asked, such as \"How should we visualize this data on this screen?\" instead of \"What kind of table do you want?\" Precise inquiries help create a consistent vision within the team.",
+        "Including users in the prototype phase increases their sense of ownership and resolves the question of \"Is this what I needed?\" from the start. It reduces potential resistance to the product.",
+        "Although early backend formation may be necessary for some systems, the frontend-first approach prioritizes user experience in most projects, breaks resistance to change, optimizes costs, and enables building the product together with the user. When properly implemented, it significantly improves both the development process and the product's success."
+      ]
+    },
+    {
+      "title": "Does Artificial Intelligence Have Consciousness?",
+      "url_name": "does-artificial-intelligence-have-consciousness",
+      "image": "does-artificial-intelligence-have-consciousness.jpg",
+      "keywords": "artificial intelligence, consciousness, machine understanding, collective mind, machine learning, neural networks, philosophy of mind",
+      "html_desc": "Explore the philosophical and scientific dimensions of consciousness in the age of artificial intelligence, where machines mirror humanity's collective mind but remain devoid of true understanding.",
+      "short_desc": "Consciousness remains an enigma in both science and philosophy, and the rise of artificial intelligence invites us to re-examine its nature. While machines can mimic human responses using vast datasets, they lack true understanding and emotional depth. Like mirrors, AI systems reflect humanity's collective thoughts, yet they do not possess the self-awareness or biological grounding that defines conscious experience. This raises profound questions about the limits of computation and the essence of being.",
+      "content": [
+        "Consciousness remains one of the most mysterious dimensions of human existence, and advancements in artificial intelligence technologies prompt us to re-examine this mystery. Questions about how we perceive ourselves and our surroundings and how we experience our reality as a coherent whole are now expanding to include the following:",
+        "\"Can machines also be conscious?\"",
+        "While technologies like large language models can process complex data and produce human-like responses, they still lack genuine \"comprehension.\"",
+        "The psychologist Doğan Cüceloğlu introduced the concept of a \"culture robot\" - individuals who blindly adhere to social norms and patterns, losing connection with their authentic selves and their ability to think deeply or question. These individuals use formulaic expressions like \"It was amazing!\" or \"It was so beautiful!\" but struggle to provide satisfying answers when asked, \"Why was it beautiful?\"",
+        "Surprisingly, despite having computational and response-generating capabilities far superior to those of humans at the \"culture robot human\" level, artificial intelligence systems still lack consciousness. Today's most advanced AI systems, similar to those trapped in specific cultural patterns, cannot transcend the patterns they've learned from vast datasets and demonstrate genuine understanding. So, where exactly is the connection between ideas, emotions, and our biological systems? Will we ever be able to understand this connection?",
+        "A conscious being, like a human, can lose motivation to act when demoralized. Will we observe similar conditions in a conscious machine? Or will machines' emotional intelligence reach levels that surpass human intelligence? These questions stand at the intersection of scientific research and philosophical thought.",
+        "For artificial intelligence to gain proper understanding and comprehension, it must go beyond merely processing textual data to establishing meaningful connections between language and the physical world. Integrating image processing and natural language understanding (NLU) systems could be an next step in this direction.",
+        "However, we need to question our belief that a profound phenomenon like consciousness can be explained solely through computational power.",
+        "AI systems are trained with enormous data pools consisting of texts, conversations, books, articles, and other content billions of people produce. This data pool serves as a digital archive of humanity's collective thoughts, ideas, beliefs, and conscious experiences. Therefore, the responses we receive from an AI model are actually rearranged, processed, and synthesized versions of thoughts produced by thousands of years of human consciousness.",
+        "Though machines are not conscious, they reflect humanity's collective consciousness like mirrors. They present reflections of our own thoughts, concerns, hopes, and dreams. From this perspective, our dialogues with artificial intelligence are a kind of internal conversation with our own collective mind."
+      ]
+    },
+    {
+      "title": "The Algorithm of Divine Justice",
+      "url_name": "the-algorithm-of-divine-justice",
+      "image": "the-algorithm-of-divine-justice.jpg",
+      "keywords": "technology, divine justice, oppression, automation, human progress",
+      "html_desc": "Technology follows cycles of initial oppression followed by divine liberation, with software and automation promising humanity's greatest era of prosperity.",
+      "short_desc": "A philosophical reflection on how technological advances, despite being initially exploited by oppressors, ultimately serve human progress through Allah's protective guidance, with software and automation heralding an unprecedented age of prosperity.",
+      "content": [
+        "From time to time, there have been those who used technological developments to gain power by oppressing and exploiting others. However, technology has always managed to increase the general comfort of people as well.",
+        "No matter how powerful the evil ones think they have become, pleasant and comfortable living spaces have always been created for the good ones. Although we will never fully understand the details of life's algorithm, Allah is the protector of humanity's progress through touches at the right time.",
+        "The tyranny inflicted by those who could process iron on those who couldn't during one period was more cruel than the oppression inflicted by those who can control today's weapons by processing software. But their era also came to an end.",
+        "Thanks to the use of software for good, humanity will once again be freed from the pressure of false tyranny. Moreover, this time, with the support of automation, we may witness the brightest and most lasting period of prosperity in human history..."
+      ]
+    },
+    {
+      "title": "The DeepSeek Case and Measuring Real Software Developers",
+      "url_name": "measuring-real-software-developers-programmers",
+      "image": "measuring-real-software-developers.jpg",
+      "keywords": "software developer assessment, coding tests, real-world programming, programming ethics, developer passion, tech industry challenges",
+      "html_desc": "In the tech world, true software developers are distinguished by their passion and dedication to coding beyond formal requirements.",
+      "short_desc": "In a tech landscape where billion-dollar budgets don't always guarantee innovation, smaller teams are proving that passion and talent can rival massive resources. This piece examines the imbalance of oversight in the industry, the influence of geopolitical narratives, and how to identify developers who are driven by genuine curiosity rather than financial gain.",
+      "content": [
+        "An interesting paradox exists in today's technology world. The recent announcement by AI model developer DeepSeek that they developed a GPT-4-like model with a budget of $7 million is a striking example of this paradox. On the one hand, companies like OpenAI are working with enormous budgets at the level of $7 billion, claiming to produce the most advanced technology. On the other side, teams like DeepSeek demonstrate they can produce solutions of similar quality with just a thousandth of that budget. This situation is a striking indicator that the transformation of the IT sector in recent years and the balance between talent and resources needs to be questioned.",
+        "Tech giants have become experts at skirting regulations, dodging serious oversight while looking like they're playing by the rules. We see this especially with US companies manipulating their own regulatory institutions, often using the fear that China might surpass them technologically as justification for looser oversight. We can't know exactly what's happening behind closed doors, but it doesn't smell right. This is exactly why we need to find real developers who code because they love it, not because they're caught up in these bigger political and financial games.",
+        "Unfortunately, the IT sector has recently become a center of attention for people at all levels who 'appear useful but cause harm.' So, how can we distinguish genuine software enthusiasts without wasting time and resources in such an environment?",
+        "Actually, a very simple question can be asked to understand this:",
+        "\"Do you have any software projects in your area of interest that you developed outside of work or school projects without being obligated to?\"",
+        "If you're looking for more passion, you can also ask this question:",
+        "\"Have you ever gotten up in the middle of the night when you couldn't sleep and sat down at your computer to write code?\"",
+        "The answers to these two questions help us understand whether the person in front of us is genuinely passionate about software or just chasing high-salary dreams.",
+        "For someone who carries the spirit of a developer, coding is not a task limited to working hours but a passionate pursuit. And it's even become a social responsibility now. These people love to dig into the root causes of problems and can, therefore, understand that configuring ready-made solutions might not solve the underlying problem. They prefer to develop from scratch when necessary and enjoy bringing their projects to life. This passion quickly sets them apart from others who enter the sector for high salaries. So much so that although some may pass the challenging interviews of Silicon Valley companies by memorizing interview techniques and algorithms thanks to their strong memories, they fail when it comes to producing real value. Because software development requires much more than memorizing formulas...",
+        "Whether you're hiring a new software developer, planning to invest in a software project, or evaluating yourself in your career journey, these questions will serve as an important compass to help you choose the right path.",
+        "For some, these questions might be a final wake-up call to choose different career paths that will allow them to better utilize their talents and interests rather than continuing in software development."
+      ]
+    }
+  ]
+}
