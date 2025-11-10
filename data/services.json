@@ -91,13 +91,13 @@
       "images": [
         "training-cybersecurity-awareness.png"
       ],
-      "keywords": "cybersecurity awareness training, programming related faults, security awareness for everyone, secure information technology practices",
-      "html_desc": "Learn how small cybersecurity oversights trigger real-world outages and breaches, with training on prevention strategies, incident response, and effective risk communication.",
-      "short_desc": "This training explores some of the most notorious failures and breaches in the history of software engineering and cybersecurity. Through real-world cases, participants gain awareness of how programming mistakes, design flaws, and overlooked security gaps can lead to massive financial, operational, and social consequences. The session highlights lessons learned from these events, helping developers and professionals strengthen their critical thinking, improve software quality, and build a stronger culture of cybersecurity awareness.",
+      "keywords": "cybersecurity incidents, programming vulnerabilities, software security breaches, real-world case studies, incident response strategies, security culture development",
+      "html_desc": "Learn from notorious software failures and security breaches through real-world case studies. Understand how small oversights escalate into major incidents and build stronger security awareness.",
+      "short_desc": "Learn from notorious software failures and security breaches through real-world case studies. Understand how programming mistakes, configuration errors, and design flaws escalate into major incidents. Build practical security awareness to recognize risks early and contribute to more resilient organizations.",
       "detail_desc": [
         {
           "title": "About the Training",
-          "content_html": "<p>This training raises cybersecurity awareness by examining real world examples of how software failures, security breaches, and programming vulnerabilities can spiral into large scale incidents. Participants explore how small oversights such as configuration mistakes, unsafe update mechanisms, or weak authentication have escalated into outages, data leaks, and financial losses impacting millions. These cases demonstrate how interconnected modern systems are, and how flaws in one area can quickly cascade across entire organizations.</p><p>Beyond the technical dimension, the training emphasizes the importance of building security-conscious cultures. Participants learn how to move beyond treating security as a compliance requirement and instead integrate protective thinking into everyday design and decision-making. Through post-incident analysis, the course highlights not only how failures occurred but also how organizations managed recovery, helping participants understand both prevention and response.</p><p>Designed for both technical and non-technical audiences, the session combines storytelling, practical lessons, and group reflection. By the end, participants will be able to recognize risks earlier, communicate them more effectively across teams, and contribute to stronger, more resilient practices in their organizations.</p>"
+          "content_html": "<p>This training examines notorious real-world software failures and security breaches to build practical security awareness. Through compelling case studies, participants see how small oversights like configuration mistakes, unsafe update mechanisms, and weak authentication escalate into outages, data breaches, and financial losses affecting millions.</p><p>Learn to recognize security risks earlier and communicate them effectively across teams. The training emphasizes building security-conscious cultures where protective thinking becomes part of everyday design and decision-making, not just compliance checkboxes.</p><p>Designed for both technical and non-technical audiences, this session combines storytelling with practical lessons. Participants gain insights from post-incident analysis, understanding both how failures occur and how organizations successfully recover and prevent future incidents.</p>"
         }
       ],
       "questions": [
@@ -118,7 +118,7 @@
           "answer": "<p>No specific prerequisites are required. The training is suitable for all levels.</p>"
         }
       ],
-      "why_buy": "This training builds awareness of how software flaws and security oversights can escalate into major failures. Participants learn from real-world cases to recognize risks earlier, make more responsible engineering decisions, and contribute to stronger, more resilient organizations."
+      "why_buy": "Security breaches cost millions and destroy reputations overnight. Learn from others' expensive mistakes instead of making your own. Recognize vulnerabilities before they become incidents and build the security mindset that makes you invaluable to any organization."
     },
     {
       "category": "Trainings",
