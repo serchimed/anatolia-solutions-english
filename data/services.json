@@ -123,6 +123,42 @@
     {
       "category": "Trainings",
       "category_url": "trainings",
+      "name": "Social Engineering Defense for High-Value Technical Professionals",
+      "price": "$250.00",
+      "url_name": "training-social-engineering-defense",
+      "full_url": "anatolia.solutions/services/training-social-engineering-defense.html",
+      "pay_url": "buy.stripe.com/PLACEHOLDER",
+      "images": [
+        "training-social-engineering-defense.png"
+      ],
+      "keywords": "social engineering defense, personal security awareness, targeted manipulation tactics, professional sabotage prevention, high-value targets protection, work-life security balance",
+      "html_desc": "Learn to recognize and defend against social engineering attacks targeting technical professionals. Understand manipulation tactics designed to reduce productivity and compromise critical projects through personal life exploitation.",
+      "short_desc": "Protect yourself from targeted social engineering and manipulation tactics. Learn to recognize when personal relationships, social situations, and daily interactions are being exploited to sabotage your work performance and compromise critical projects.",
+      "detail_desc": [
+        {
+          "title": "About the Training",
+          "content_html": "<p>This training equips high-value technical professionals with the awareness and skills to recognize social engineering attacks that extend beyond the workplace into personal life. Learn how adversaries exploit relationships, social situations, and daily interactions to manipulate productivity, steal information, or sabotage critical projects.</p><p>Participants explore real-world scenarios where engineers and technical professionals became targets through seemingly innocent social connections, family pressures, romantic relationships, and community interactions. Understand the psychology behind targeted manipulation and develop practical strategies to maintain security awareness without becoming paranoid or isolated.</p><p>The training combines lessons from both team dynamics and security incident analysis, showing how personal vulnerabilities connect to professional risks. Learn to recognize warning signs, establish healthy boundaries, and protect yourself while maintaining genuine relationships and work-life balance.</p>"
+        }
+      ],
+      "questions": [
+        {
+          "question": "Who is this course ideal for?",
+          "answer": "<p>This training is ideal for software engineers, technical leads, security professionals, and anyone working on critical or sensitive projects who may become targets of social engineering through their personal lives.</p>"
+        },
+        {
+          "question": "What is the duration of the training?",
+          "answer": "<p>The training typically lasts for 4 hours, but it can be adjusted based on your needs.</p>"
+        },
+        {
+          "question": "Are there any prerequisites for attending the training?",
+          "answer": "<p>No specific prerequisites are required. The training is suitable for all levels.</p>"
+        }
+      ],
+      "why_buy": "Your technical expertise makes you a valuable target. Adversaries know they cannot always breach systems directly, so they target you through personal relationships and social manipulation. Learn to recognize these tactics before they compromise your work, damage your reputation, or sabotage projects worth millions. Protect yourself without sacrificing genuine relationships or becoming isolated."
+    },
+    {
+      "category": "Trainings",
+      "category_url": "trainings",
       "name": "English Vocabulary for Software Projects Training for Turkish Speakers",
       "price": "$150.00",
       "url_name": "training-software-vocabulary",
