@@ -11,13 +11,13 @@
       "images": [
         "training-fundamentals-of-being-a-good-team-player.png"
       ],
-      "keywords": "team development, personal growth, organization culture training, collaboration training, teamwork development",
-      "html_desc": "Professional training program on collaboration, project management, communication strategies, personal growth and organizational dynamics.",
-      "short_desc": "Fundamentals of being a good team player training develops collaboration, leadership, and communication skills essential for modern workplaces. The program also fosters personal growth, emotional maturity, and the ability to thrive in diverse organizational environments.",
+      "keywords": "team collaboration skills, communication training, agile project management, organizational culture, leadership development",
+      "html_desc": "Master essential collaboration, communication, and project management skills for modern teams. Learn to recognize project patterns, understand team evolution stages, and make more accurate predictions about project outcomes and team member behaviours.",
+      "short_desc": "Develop essential collaboration, leadership, and communication skills for modern teams. Learn agile project management, understand team evolution stages, and gain the ability to recognize patterns and predict project outcomes and team member behaviours more accurately.",
       "detail_desc": [
         {
           "title": "About the Training",
-          "content_html": "<em>Training Overview</em><p>This program equips professionals with the skills to collaborate effectively, lead projects with confidence, and grow personally within complex organizations.</p><em>Collaboration and Communication</em><p>Participants build strong teamwork skills by exploring group development stages and practicing strategic communication. They learn to overcome communication barriers, adapt messages to audience capacity, and foster clarity in fast-paced environments.</p><em>Project Management and Agility</em><p>The training provides practical ideas for choosing between Waterfall and Agile methodologies. Participants gain understanding of Scrum sprint cycles and learn when and how to apply different approaches for maximum project success.</p><em>Personal and Organizational Growth</em><p>Beyond technical skills, the program fosters personal development. Participants reflect on life stages, strengthen emotional maturity, and cultivate an adaptive economic mindset. They also examine how organizational size and structure influence behavior and explore ways to balance innovation with proven best practices.</p><em>Key Outcome</em><p>By the end of this training, participants will be able to lead teams with agility, communicate with impact, and navigate organizational challenges with maturity and strategic insight.</p>"
+          "content_html": "<p>This program equips professionals with essential teamwork, communication, and project management skills. Through practical frameworks, participants learn to collaborate effectively, lead with confidence, and recognize patterns in how teams develop from formation to high performance.</p><p>The training covers strategic communication techniques, agile methodologies, and organizational growth. Participants gain practical insights to overcome communication barriers, choose the right project approach, and anticipate challenges by understanding team evolution stages and project lifecycle patterns.</p>"
         }
       ],
       "questions": [
@@ -34,7 +34,7 @@
           "answer": "<p>No specific prerequisites are required. The training is suitable for all levels.</p>"
         }
       ],
-      "why_buy": "This training strengthens teamwork, communication, and collaboration skills. Participants learn how projects evolve over time and how to understand people's motivations, helping them work more effectively within any organization."
+      "why_buy": "Learn to recognize project patterns and predict outcomes and team member behaviours more accurately. Gain practical insights to understand team evolution stages, anticipate challenges early, and make better decisions throughout the project lifecycle. See what others miss before problems emerge."
     },
     {
       "category": "Trainings",
