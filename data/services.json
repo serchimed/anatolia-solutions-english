@@ -223,13 +223,13 @@
       "images": [
         "training-test-driven-development-workshop.png"
       ],
-      "keywords": "TDD training, unit testing workshop, automated testing workshop, software training, developer workshop",
-      "html_desc": "Professional hands-on workshop on Test Driven Development methodologies using VS Code, covering unit tests, integration tests, and acceptance tests for C# and JavaScript.",
-      "short_desc": "A practical TDD workshop that teaches the test-first cycle through theory, live demonstrations, and hands-on practice with xUnit, MochaJS, and Puppeteer for comprehensive test coverage in programming.",
+      "keywords": "test driven development, TDD workshop, unit testing practices, red-green-refactor cycle, code quality improvement, automated testing",
+      "html_desc": "Hands-on TDD workshop teaching test-first development with practical exercises. Master unit, integration, and acceptance testing to maintain code quality while moving fast with AI-assisted development.",
+      "short_desc": "Master Test Driven Development through hands-on practice. Learn the red-green-refactor cycle and testing pyramid. Protect your projects from vibe coding chaos when using AI tools by establishing disciplined testing habits that guide design decisions.",
       "detail_desc": [
         {
           "title": "About the Workshop Training",
-          "content_html": "<em>Workshop Overview</em><p>This hands-on workshop introduces Test Driven Development in a clear and practical way. Developers work step by step through the TDD process, with examples in languages such as C# and JavaScript. The emphasis is on how TDD shapes code design, testing strategy, and everyday development practices.</p><p>Participants also explore the testing pyramid, learning how unit, integration, and end-to-end tests complement one another. Through guided practice, they build the skill to choose the right level of test for a given problem and balance effort across different types of testing.</p><p>By the end, developers will be able to apply TDD in their daily work, write meaningful tests that guide design decisions, and maintain confidence in their codebase as it grows. Juniors and intermediates will strengthen their foundations, while seniors will find opportunities to refine their approach and mentor others.</p><em>Learning Methodology</em><p>The workshop follows a learn–demo–practice cycle. First, participants are introduced to the principles of TDD and the Red-Green-Refactor cycle. The instructor then demonstrates how to apply these principles in practice, before guiding participants through exercises where they write tests and build features themselves, often working in pairs or small groups to share insights.</p><p>Examples use familiar tools such as Visual Studio Code, xUnit, MochaJS, and Puppeteer, but these are shown only to illustrate techniques. Participants are encouraged to adapt TDD practices to the tools and languages they already use in their own work.</p>"
+          "content_html": "<p>This hands-on workshop teaches Test Driven Development through practical exercises with C# and JavaScript. Learn the red-green-refactor cycle, testing pyramid concepts, and how TDD shapes code design and development practices. Developers gain skills to write meaningful tests, choose appropriate test levels, and maintain confidence as codebases grow, especially critical when using AI-assisted development tools.</p><p>The workshop follows a learn-demo-practice cycle. Participants learn TDD principles, watch live demonstrations, then practice through guided exercises. Working in pairs or small groups encourages knowledge sharing and collaborative problem-solving.</p><p>Tools like Visual Studio Code and testing frameworks illustrate techniques that adapt to any development environment. By the end, participants confidently apply TDD practices to real projects, preventing vibe coding from destroying project quality while leveraging AI for faster development.</p>"
         }
       ],
       "questions": [
@@ -250,7 +250,7 @@
           "answer": "<p>The full-day workshop follows three phases: theoretical TDD foundations, live instructor demonstrations with xUnit/MochaJS/Puppeteer, and hands-on participant practice with guided coding tasks in VS Code.</p>"
         }
       ],
-      "why_buy": "This workshop gives developers practical experience with Test Driven Development, focusing on the habits and mindset that improve code quality over time. Participants learn through a cycle of explanation, live coding, and guided practice so they not only understand TDD concepts but also apply them with confidence in real projects."
+      "why_buy": "AI-assisted coding accelerates development but vibe coding without tests destroys projects. Master TDD to move fast without breaking things. Write reliable code that catches issues before production. Gain the disciplined testing habits that let you leverage AI tools confidently while maintaining professional code quality and preventing regressions."
     },
     {
       "category": "Consultancies",
