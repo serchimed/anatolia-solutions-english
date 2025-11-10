@@ -47,13 +47,13 @@
       "images": [
         "training-ai-prompting.png"
       ],
-      "keywords": "artificial intelligence training, ai introduction, ai prompting training, prompt engineering, chatgpt training, ai risks and opportunities",
-      "html_desc": "Learn the fundamentals of AI and large language models through practical prompt design, exploring risks and opportunities while applying AI to data analysis, visualization, and music creation.",
-      "short_desc": "A comprehensive, hands-on exploration of artificial intelligence that covers what AI truly is, how large language models process and generate information, and how to master the art of crafting effective prompts that unlock their full potential. Through practical exercises and real-world applications, learn proven techniques for leveraging AI across diverse domains from sophisticated data analysis and statistical modeling to creative visual art generation and musical composition, while developing critical awareness of both the transformative opportunities and inherent risks that define our AI-powered future.",
+      "keywords": "prompt engineering, AI productivity tools, large language models, creative AI applications, data analysis with AI, ChatGPT and Claude training",
+      "html_desc": "Master AI prompt engineering through hands-on practice. Learn to work effectively with ChatGPT, Claude, and other AI tools for data analysis, creative projects, and problem-solving.",
+      "short_desc": "Master AI prompt engineering through practical exercises with multiple AI tools including ChatGPT, Claude, and Gemini. Gain hands-on experience applying AI to data analysis, creative projects, and complex problem-solving while understanding both opportunities and risks.",
       "detail_desc": [
         {
           "title": "About the Training",
-          "content_html": "<p>This training offers an accessible introduction to the world of Artificial Intelligence, guiding participants from the concept of human intelligence to the rise of machine intelligence. It explains what AI is, how large language models work as the “talking brain” of technology, and explores deeper questions such as whether AI can be considered conscious—or if it only gives the perception of awareness. The session also examines the opportunities and risks AI brings, helping participants understand both its potential and its challenges.</p><p>A core part of the program focuses on the art of preparing effective prompts—the foundation of working productively with AI systems. Participants learn the anatomy of an ideal prompt, discover how to achieve powerful results with zero-hit prompts, and practice designing prompts where AI takes on roles, uses analogies, or structures information hierarchically. More advanced techniques such as chained prompts are also introduced, showing how to guide AI step by step through complex problem-solving.</p><p>Finally, the training highlights how AI can be applied creatively and analytically across different fields. Participants see how AI can extend the power of familiar tools like Excel for data analysis, serve as a digital canvas for generating compelling visual art, and even open new possibilities in music composition by creating melodies without traditional limits.</p><p>By the end of the training, participants will have a solid understanding of AI's foundations, practical skills for crafting effective prompts, and inspiration for applying AI in both analytical and creative contexts.</p>"
+          "content_html": "<p>This hands-on training teaches you to work effectively with AI tools through practical prompt engineering techniques. Learn what AI and large language models actually are, how they process information, and the real opportunities and risks they present for your work.</p><p>Master proven prompting techniques including zero-shot prompts, role-based prompts, analogical reasoning, hierarchical structuring, and chained prompts for complex tasks. Practice with multiple AI platforms including ChatGPT, Claude, Gemini, and specialized tools for creative and analytical work.</p><p>Apply AI across diverse domains including data analysis with Excel integration, visual art generation, and music composition. By the end, you'll have practical skills to leverage AI effectively in both professional and creative contexts.</p>"
         }
       ],
       "questions": [
@@ -78,7 +78,7 @@
           "answer": "<p>No specific prerequisites are required. The training is suitable for all levels.</p>"
         }
       ],
-      "why_buy": "Participants gain a working understanding of AI and large language models, learn proven prompt techniques, and leave with practical ways to use AI for analysis and creative work."
+      "why_buy": "AI is transforming every industry. Those who master prompt engineering gain a massive productivity advantage while others struggle with basic tasks. Learn proven techniques to work significantly faster and unlock capabilities your competitors haven't discovered yet."
     },
     {
       "category": "Trainings",
