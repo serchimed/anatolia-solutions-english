@@ -157,6 +157,40 @@
         }
       ],
       "why_buy": "Traditional shopping carts create massive legal headaches by storing customer data. GDPR fines reach millions of euros, data breaches destroy reputations overnight, and database maintenance never ends. This system eliminates those problems by never storing personal information. Customers send orders through WhatsApp or messaging apps they already trust, share locations instead of typing addresses, and you avoid data protection regulations entirely. We configure everything including hosting, SSL, and security. Accept orders safely without the legal liability, security burden, or compliance costs of traditional e-commerce platforms."
+    },
+    {
+      "category": "Software Solutions",
+      "category_url": "software-solutions",
+      "name": "Community Shopping Hub",
+      "price": "$500.00",
+      "url_name": "community-shopping-hub",
+      "full_url": "anatolia.solutions/products/community-shopping-hub.html",
+      "pay_url": "buy.stripe.com/placeholder",
+      "keywords": "neighborhood shopping platform, multi vendor marketplace, local shopping aggregator, community marketplace, product category filters, vendor grouping, local delivery platform, neighborhood commerce, multi cart system, privacy focused marketplace",
+      "images": [
+        "community-shopping-hub.png"
+      ],
+      "html_desc": "Aggregated shopping platform combining multiple Lightweight Shopping Cart Systems from neighborhood vendors. Browse and order from local businesses with filtering by product type, category, and vendor.",
+      "short_desc": "Community Shopping Hub brings together multiple local vendors using Lightweight Shopping Cart Systems into a unified neighborhood shopping experience. Customers can browse products from different local businesses, filter by product type or category, group by vendor or ingredients, and place orders through their preferred messaging apps. Each vendor maintains their own independent cart system while appearing together in the community hub, making it easy for residents to discover and order from all local businesses in one place without anyone storing their personal data.",
+      "detail_desc": [
+        {
+          "title": "Unified Neighborhood Shopping Experience",
+          "content_html": "<p>The Community Shopping Hub aggregates products from multiple local vendors, each running their own Lightweight Shopping Cart System. Instead of visiting separate websites for the bakery, grocery store, and restaurant in your neighborhood, customers see all available products in one organized interface. Smart filtering lets customers browse by product type (food, household items, services), category (bakery, produce, prepared meals), ingredients (gluten free, vegan, organic), or vendor. Products remain tagged with their source vendor, and orders route to the appropriate business through the same secure messaging flow individual cart systems use.</p>"
+        },
+        {
+          "title": "Privacy Preserved Across All Vendors",
+          "content_html": "<p>The hub inherits the privacy advantages of individual Lightweight Shopping Cart Systems. No central database stores customer information. When customers place orders, their data flows directly to each vendor through messaging apps without touching any shared infrastructure. Each vendor receives only orders placed with them, maintaining business privacy while customers enjoy the convenience of unified browsing. The aggregation happens purely in the customer's browser through JavaScript that fetches product data from each vendor's static JSON files. No server processes customer actions, no database logs shopping behavior, and no central authority sees transaction details.</p>"
+        },
+        {
+          "title": "Simple Vendor Integration",
+          "content_html": "<p>Joining the hub requires minimal changes to existing Lightweight Shopping Cart Systems. Vendors add standardized metadata fields to their product JSON (category tags, ingredient lists, product types) and register their cart system's data source with the hub configuration. The hub automatically pulls and displays their products alongside other vendors. Each business maintains complete control over their own product catalog, pricing, and order fulfillment while benefiting from increased visibility to neighborhood customers. Vendors can join or leave the hub without disrupting other participants, and each retains their independent cart system that continues functioning normally outside the hub.</p>"
+        },
+        {
+          "title": "Complete Setup and Vendor Onboarding",
+          "content_html": "<p>We configure the Community Shopping Hub with your chosen neighborhood vendors, set up hosting through GitHub Pages with Cloudflare protection, and provide training for both hub administrators and participating vendors. Vendors learn how to format their product data for hub compatibility while maintaining their independent systems. Administrators learn how to add new vendors, configure filtering options, and manage the hub interface. Like our other systems, setup includes SSL configuration, security rules, and template customization. No technical experience required.</p>"
+        }
+      ],
+      "why_buy": "Neighborhood businesses lose customers to large platforms because shoppers prefer browsing everything in one place. Traditional multi vendor marketplaces charge high commissions, store customer data creating GDPR liability, and lock vendors into proprietary systems. Community Shopping Hub solves these problems by aggregating local vendors without data storage, commission fees, or vendor lock in. Each business keeps their independent Lightweight Shopping Cart System and privacy advantages while gaining visibility through shared neighborhood discovery. Customers enjoy unified browsing with filtering and grouping while ordering directly through messaging apps. We handle complete setup including vendor integration and training. Build local commerce without surrendering privacy, paying platform fees, or creating shared data liability."
     }
   ]
 }
