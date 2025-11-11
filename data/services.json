@@ -390,36 +390,6 @@
       ],
       "why_buy": "Hidden vendor dependencies are ticking time bombs that cripple operations, expose sensitive data, or hand advantages to rivals. Stop gambling with your company's future by trusting vendors won't fail or get compromised. Our evaluation reveals invisible threats before they become expensive disasters, transforming your supply chain into a competitive advantage.",
       "info": "As a first step, we offer a free online preliminary assessment meeting. Depending on the scope of your project, our consulting services are approximately $35 per hour."
-    },
-    {
-      "category": "Software Solutions",
-      "category_url": "software-solutions",
-      "name": "Lightweight Shopping Cart System",
-      "price": "$300.00",
-      "url_name": "lightweight-shopping-cart-system",
-      "full_url": "anatolia.solutions/products/lightweight-shopping-cart-system.html",
-      "pay_url": "buy.stripe.com/aFa6oIbg6bh153N6dacQU0e",
-      "keywords": "database free shopping cart, secure e-commerce, whatsapp shopping cart, instant messaging orders, gdpr compliant shopping, no customer data storage, location based delivery, privacy focused e-commerce, static shopping cart, lightweight online store",
-      "images": [
-        "lightweight-shopping-cart-system.png"
-      ],
-      "html_desc": "Database free shopping cart system where customers send orders via WhatsApp or instant messaging. No personal data storage means automatic GDPR compliance and zero data breach risk.",
-      "short_desc": "Accept orders securely without storing customer data. Customers create their shopping cart and send orders directly through WhatsApp or similar instant messaging apps. Since you never store personal information in a database, GDPR compliance becomes automatic and data breach liability disappears. Customers can share their location for nearby deliveries instead of typing addresses, making the checkout process faster and more convenient.",
-      "detail_desc": [
-        {
-          "title": "Zero Data Storage, Zero Liability",
-          "content_html": "<p>Traditional e-commerce platforms store customer names, addresses, phone numbers, purchase histories, and payment information in databases, creating massive legal liability under GDPR, CCPA, and similar privacy regulations. Every piece of stored data requires disclosure notices, consent mechanisms, deletion procedures, and breach notification protocols. This system eliminates that burden entirely. Customer information travels directly from their device to your instant messaging app without touching your infrastructure. You never possess personal data to secure, so you cannot leak it. Data protection responsibility belongs to WhatsApp, Telegram, or whatever messaging platform customers choose. Your legal exposure vanishes because you simply never hold the data that regulations protect.</p>"
-        },
-        {
-          "title": "Instant Messaging Order Flow",
-          "content_html": "<p>Customers browse your product catalog, add items to their cart, and review their order exactly like any modern shopping experience. When ready to complete the purchase, they tap a button that formats their cart contents and opens their preferred messaging app with you as the recipient. The formatted message includes product names, quantities, prices, and total amount. For nearby deliveries, customers can share their location directly through the messaging app instead of manually typing street addresses. This eliminates address entry errors and makes the process seamless for local customers. You receive the order as a regular message, confirm availability and delivery time, and arrange payment through your existing business processes. The entire transaction happens through familiar, encrypted messaging that both you and your customers already trust and use daily.</p>"
-        },
-        {
-          "title": "Familiar Technical Foundation",
-          "content_html": "<p>The shopping cart uses the same secure static architecture as the Lightweight Website System. Products and pricing live in JSON files with version control. GitHub Pages hosts the catalog with Cloudflare providing DNS security, SSL, and DDoS protection. The shopping cart functionality runs entirely in the customer's browser using JavaScript, with no server side processing or database queries. When customers finalize their order, JavaScript formats the cart contents into a message and opens their messaging app. We handle complete setup including domain configuration, SSL certificates, Cloudflare Rules, and template customization. Training covers JSON product management and cart configuration so you can update inventory and pricing confidently. No technical experience required.</p>"
-        }
-      ],
-      "why_buy": "Traditional shopping carts create massive legal headaches by storing customer data. GDPR fines reach millions of euros, data breaches destroy reputations overnight, and database maintenance never ends. This system eliminates those problems by never storing personal information. Customers send orders through WhatsApp or messaging apps they already trust, share locations instead of typing addresses, and you avoid data protection regulations entirely. We configure everything including hosting, SSL, and security. Accept orders safely without the legal liability, security burden, or compliance costs of traditional e-commerce platforms."
     }
   ]
 }
