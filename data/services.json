@@ -12,8 +12,8 @@
         "training-fundamentals-of-being-a-good-team-player.png"
       ],
       "keywords": "team collaboration skills, communication training, agile project management, organizational culture, leadership development",
-      "html_desc": "Master essential collaboration, communication, and project management skills for modern teams. Learn to recognize project patterns, understand team evolution stages, and make more accurate predictions about project outcomes and team member behaviours.",
-      "short_desc": "Develop essential collaboration, leadership, and communication skills for modern teams. Learn agile project management, understand team evolution stages, and gain the ability to recognize patterns and predict project outcomes and team member behaviours more accurately.",
+      "html_desc": "Master essential collaboration, communication, and project management skills for modern teams. Learn to recognize project patterns, understand team evolution stages, and make more accurate predictions about project outcomes and team member behaviors.",
+      "short_desc": "Develop essential collaboration, leadership, and communication skills for modern teams. Learn agile project management, understand team evolution stages, and gain the ability to recognize patterns and predict project outcomes and team member behaviors more accurately.",
       "detail_desc": [
         {
           "title": "About the Training",
@@ -34,7 +34,7 @@
           "answer": "<p>No specific prerequisites are required. The training is suitable for all levels.</p>"
         }
       ],
-      "why_buy": "Learn to recognize project patterns and predict outcomes and team member behaviours more accurately. Gain practical insights to understand team evolution stages, anticipate challenges early, and make better decisions throughout the project lifecycle. See what others miss before problems emerge."
+      "why_buy": "Learn to recognize project patterns and predict outcomes and team member behaviors more accurately. Gain practical insights to understand team evolution stages, anticipate challenges early, and make better decisions throughout the project lifecycle. See what others miss before problems emerge."
     },
     {
       "category": "Trainings",
@@ -48,12 +48,12 @@
         "training-ai-prompting.png"
       ],
       "keywords": "prompt engineering, AI productivity tools, large language models, creative AI applications, data analysis with AI, ChatGPT and Claude training",
-      "html_desc": "Master AI prompt engineering through hands-on practice. Learn to work effectively with ChatGPT, Claude, and other AI tools for data analysis, creative projects, and problem-solving.",
-      "short_desc": "Master AI prompt engineering through practical exercises with multiple AI tools including ChatGPT, Claude, and Gemini. Gain hands-on experience applying AI to data analysis, creative projects, and complex problem-solving while understanding both opportunities and risks.",
+      "html_desc": "Master AI prompt engineering through hands on practice. Learn to work effectively with ChatGPT, Claude, and other AI tools for data analysis, creative projects, and problem solving.",
+      "short_desc": "Master AI prompt engineering through practical exercises with multiple AI tools including ChatGPT, Claude, and Gemini. Gain hands on experience applying AI to data analysis, creative projects, and complex problem solving while understanding both opportunities and risks.",
       "detail_desc": [
         {
           "title": "About the Training",
-          "content_html": "<p>This hands-on training teaches you to work effectively with AI tools through practical prompt engineering techniques. Learn what AI and large language models actually are, how they process information, and the real opportunities and risks they present for your work.</p><p>Master proven prompting techniques including zero-shot prompts, role-based prompts, analogical reasoning, hierarchical structuring, and chained prompts for complex tasks. Practice with multiple AI platforms including ChatGPT, Claude, Gemini, and specialized tools for creative and analytical work.</p><p>Apply AI across diverse domains including data analysis with Excel integration, visual art generation, and music composition. By the end, you'll have practical skills to leverage AI effectively in both professional and creative contexts.</p>"
+          "content_html": "<p>This hands on training teaches you to work effectively with AI tools through practical prompt engineering techniques. Learn what AI and large language models actually are, how they process information, and the real opportunities and risks they present for your work.</p><p>Master proven prompting techniques including zero shot prompts, role based prompts, analogical reasoning, hierarchical structuring, and chained prompts for complex tasks. Practice with multiple AI platforms including ChatGPT, Claude, Gemini, and specialized tools for creative and analytical work.</p><p>Apply AI across diverse domains including data analysis with Excel integration, visual art generation, and music composition. By the end, you'll have practical skills to leverage AI effectively in both professional and creative contexts.</p>"
         }
       ],
       "questions": [
@@ -91,13 +91,13 @@
       "images": [
         "training-cybersecurity-awareness.png"
       ],
-      "keywords": "cybersecurity incidents, programming vulnerabilities, software security breaches, real-world case studies, incident response strategies, security culture development",
-      "html_desc": "Learn from notorious software failures and security breaches through real-world case studies. Understand how small oversights escalate into major incidents and build stronger security awareness.",
-      "short_desc": "Learn from notorious software failures and security breaches through real-world case studies. Understand how programming mistakes, configuration errors, and design flaws escalate into major incidents. Build practical security awareness to recognize risks early and contribute to more resilient organizations.",
+      "keywords": "cybersecurity incidents, programming vulnerabilities, software security breaches, real world case studies, incident response strategies, security culture development",
+      "html_desc": "Learn from notorious software failures and security breaches through real world case studies. Understand how small oversights escalate into major incidents and build stronger security awareness.",
+      "short_desc": "Learn from notorious software failures and security breaches through real world case studies. Understand how programming mistakes, configuration errors, and design flaws escalate into major incidents. Build practical security awareness to recognize risks early and contribute to more resilient organizations.",
       "detail_desc": [
         {
           "title": "About the Training",
-          "content_html": "<p>This training examines notorious real-world software failures and security breaches to build practical security awareness. Through compelling case studies, participants see how small oversights like configuration mistakes, unsafe update mechanisms, and weak authentication escalate into outages, data breaches, and financial losses affecting millions.</p><p>Learn to recognize security risks earlier and communicate them effectively across teams. The training emphasizes building security-conscious cultures where protective thinking becomes part of everyday design and decision-making, not just compliance checkboxes.</p><p>Designed for both technical and non-technical audiences, this session combines storytelling with practical lessons. Participants gain insights from post-incident analysis, understanding both how failures occur and how organizations successfully recover and prevent future incidents.</p>"
+          "content_html": "<p>This training examines notorious real world software failures and security breaches to build practical security awareness. Through compelling case studies, participants see how small oversights like configuration mistakes, unsafe update mechanisms, and weak authentication escalate into outages, data breaches, and financial losses affecting millions.</p><p>Learn to recognize security risks earlier and communicate them effectively across teams. The training emphasizes building security conscious cultures where protective thinking becomes part of everyday design and decision making, not just compliance checkboxes.</p><p>Designed for both technical and non technical audiences, this session combines storytelling with practical lessons. Participants gain insights from post incident analysis, understanding both how failures occur and how organizations successfully recover and prevent future incidents.</p>"
         }
       ],
       "questions": [
@@ -123,7 +123,7 @@
     {
       "category": "Trainings",
       "category_url": "trainings",
-      "name": "Social Engineering Defense for High-Value Technical Professionals",
+      "name": "Social Engineering Defense for High Value Technical Professionals",
       "price": "$250.00",
       "url_name": "training-social-engineering-defense",
       "full_url": "anatolia.solutions/services/training-social-engineering-defense.html",
@@ -131,13 +131,13 @@
       "images": [
         "training-social-engineering-defense.png"
       ],
-      "keywords": "social engineering defense, personal security awareness, targeted manipulation tactics, professional sabotage prevention, high-value targets protection, work-life security balance",
+      "keywords": "social engineering defense, personal security awareness, targeted manipulation tactics, professional sabotage prevention, high value targets protection, work life security balance",
       "html_desc": "Learn to recognize and defend against social engineering attacks targeting technical professionals. Understand manipulation tactics designed to reduce productivity and compromise critical projects through personal life exploitation.",
       "short_desc": "Protect yourself from targeted social engineering and manipulation tactics. Learn to recognize when personal relationships, social situations, and daily interactions are being exploited to sabotage your work performance and compromise critical projects.",
       "detail_desc": [
         {
           "title": "About the Training",
-          "content_html": "<p>This training equips high-value technical professionals with the awareness and skills to recognize social engineering attacks that extend beyond the workplace into personal life. Learn how adversaries exploit relationships, social situations, and daily interactions to manipulate productivity, steal information, or sabotage critical projects.</p><p>Participants explore real-world scenarios where engineers and technical professionals became targets through seemingly innocent social connections, family pressures, romantic relationships, and community interactions. Understand the psychology behind targeted manipulation and develop practical strategies to maintain security awareness without becoming paranoid or isolated.</p><p>The training combines lessons from both team dynamics and security incident analysis, showing how personal vulnerabilities connect to professional risks. Learn to recognize warning signs, establish healthy boundaries, and protect yourself while maintaining genuine relationships and work-life balance.</p>"
+          "content_html": "<p>This training equips high value technical professionals with the awareness and skills to recognize social engineering attacks that extend beyond the workplace into personal life. Learn how adversaries exploit relationships, social situations, and daily interactions to manipulate productivity, steal information, or sabotage critical projects.</p><p>Participants explore real world scenarios where engineers and technical professionals became targets through seemingly innocent social connections, family pressures, romantic relationships, and community interactions. Understand the psychology behind targeted manipulation and develop practical strategies to maintain security awareness without becoming paranoid or isolated.</p><p>The training combines lessons from both team dynamics and security incident analysis, showing how personal vulnerabilities connect to professional risks. Learn to recognize warning signs, establish healthy boundaries, and protect yourself while maintaining genuine relationships and work life balance.</p>"
         }
       ],
       "questions": [
@@ -173,7 +173,7 @@
       "detail_desc": [
         {
           "title": "About the Training",
-          "content_html": "<p>This training is designed to help software professionals expand their English vocabulary and communicate more effectively in international projects. Instead of focusing on technical details, the course uses examples from the software world to explain English words in context, making it easier to understand both their meanings and how they are used in real-life projects.</p><p>Through interactive online sessions, you will learn the meanings and correct pronunciations of new words, practice using them in sentences, and reinforce your knowledge with review exercises. By the end of four lessons, you will have learned 100 commonly used words with your instructor, and with the help of the Software English Study Guide and Review Practice Notebook, you will continue building your vocabulary up to 2,222 words.</p>"
+          "content_html": "<p>This training is designed to help software professionals expand their English vocabulary and communicate more effectively in international projects. Instead of focusing on technical details, the course uses examples from the software world to explain English words in context, making it easier to understand both their meanings and how they are used in real life projects.</p><p>Through interactive online sessions, you will learn the meanings and correct pronunciations of new words, practice using them in sentences, and reinforce your knowledge with review exercises. By the end of four lessons, you will have learned 100 commonly used words with your instructor, and with the help of the Software English Study Guide and Review Practice Notebook, you will continue building your vocabulary up to 2,222 words.</p>"
         }
       ],
       "questions": [
@@ -199,7 +199,7 @@
         },
         {
           "question": "Who is this course ideal for?",
-          "answer": "<p>This training is ideal for software developers working with international teams on global projects, IT professionals seeking to communicate more effectively in cross-cultural meetings, individuals evaluating remote job opportunities, and contributors to open source projects who want to collaborate seamlessly across language and cultural barriers.</p>"
+          "answer": "<p>This training is ideal for software developers working with international teams on global projects, IT professionals seeking to communicate more effectively in cross cultural meetings, individuals evaluating remote job opportunities, and contributors to open source projects who want to collaborate seamlessly across language and cultural barriers.</p>"
         },
         {
           "question": "What is the duration of the training?",
@@ -223,13 +223,13 @@
       "images": [
         "training-test-driven-development-workshop.png"
       ],
-      "keywords": "test driven development, TDD workshop, unit testing practices, red-green-refactor cycle, code quality improvement, automated testing",
-      "html_desc": "Hands-on TDD workshop teaching test-first development with practical exercises. Master unit, integration, and acceptance testing to maintain code quality while moving fast with AI-assisted development.",
-      "short_desc": "Master Test Driven Development through hands-on practice. Learn the red-green-refactor cycle and testing pyramid. Protect your projects from vibe coding chaos when using AI tools by establishing disciplined testing habits that guide design decisions.",
+      "keywords": "test driven development, TDD workshop, unit testing practices, red green refactor cycle, code quality improvement, automated testing",
+      "html_desc": "Hands on TDD workshop teaching test first development with practical exercises. Master unit, integration, and acceptance testing to maintain code quality while moving fast with AI assisted development.",
+      "short_desc": "Master Test Driven Development through hands on practice. Learn the red green refactor cycle and testing pyramid. Protect your projects from vibe coding chaos when using AI tools by establishing disciplined testing habits that guide design decisions.",
       "detail_desc": [
         {
           "title": "About the Workshop Training",
-          "content_html": "<p>This hands-on workshop teaches Test Driven Development through practical exercises with C# and JavaScript. Learn the red-green-refactor cycle, testing pyramid concepts, and how TDD shapes code design and development practices. Developers gain skills to write meaningful tests, choose appropriate test levels, and maintain confidence as codebases grow, especially critical when using AI-assisted development tools.</p><p>The workshop follows a learn-demo-practice cycle. Participants learn TDD principles, watch live demonstrations, then practice through guided exercises. Working in pairs or small groups encourages knowledge sharing and collaborative problem-solving.</p><p>Tools like Visual Studio Code and testing frameworks illustrate techniques that adapt to any development environment. By the end, participants confidently apply TDD practices to real projects, preventing vibe coding from destroying project quality while leveraging AI for faster development.</p>"
+          "content_html": "<p>This hands on workshop teaches Test Driven Development through practical exercises with C# and JavaScript. Learn the red green refactor cycle, testing pyramid concepts, and how TDD shapes code design and development practices. Developers gain skills to write meaningful tests, choose appropriate test levels, and maintain confidence as codebases grow, especially critical when using AI assisted development tools.</p><p>The workshop follows a learn demo practice cycle. Participants learn TDD principles, watch live demonstrations, then practice through guided exercises. Working in pairs or small groups encourages knowledge sharing and collaborative problem solving.</p><p>Tools like Visual Studio Code and testing frameworks illustrate techniques that adapt to any development environment. By the end, participants confidently apply TDD practices to real projects, preventing vibe coding from destroying project quality while leveraging AI for faster development.</p>"
         }
       ],
       "questions": [
@@ -247,15 +247,15 @@
         },
         {
           "question": "What is the workshop structure?",
-          "answer": "<p>The full-day workshop follows three phases: theoretical TDD foundations, live instructor demonstrations with xUnit/MochaJS/Puppeteer, and hands-on participant practice with guided coding tasks in VS Code.</p>"
+          "answer": "<p>The full day workshop follows three phases: theoretical TDD foundations, live instructor demonstrations with xUnit/MochaJS/Puppeteer, and hands on participant practice with guided coding tasks in VS Code.</p>"
         }
       ],
-      "why_buy": "AI-assisted coding accelerates development but vibe coding without tests destroys projects. Master TDD to move fast without breaking things. Write reliable code that catches issues before production. Gain the disciplined testing habits that let you leverage AI tools confidently while maintaining professional code quality and preventing regressions."
+      "why_buy": "AI assisted coding accelerates development but vibe coding without tests destroys projects. Master TDD to move fast without breaking things. Write reliable code that catches issues before production. Gain the disciplined testing habits that let you leverage AI tools confidently while maintaining professional code quality and preventing regressions."
     },
     {
       "category": "Consultancies",
       "category_url": "consultancies",
-      "name": "Software-related Mentoring and Consulting",
+      "name": "Software related Mentoring and Consulting",
       "price": "$35.00",
       "url_name": "consultancy-software-related-mentoring-and-consulting",
       "full_url": "anatolia.solutions/services/consultancy-software-related-mentoring-and-consulting.html",
@@ -263,16 +263,16 @@
       "images": [
         "consultancy-software-related-mentoring-and-consulting.png"
       ],
-      "keywords": "programming mentoring, software consulting, developer coaching, decision-maker advisory, technical consulting, digital transformation guidance",
-      "html_desc": "Programming mentoring for developers and strategic consulting for decision-makers. Expert guidance on technical decisions, technology investments, and digital transformation.",
+      "keywords": "programming mentoring, software consulting, developer coaching, decision maker advisory, technical consulting, digital transformation guidance",
+      "html_desc": "Programming mentoring for developers and strategic consulting for decision makers. Expert guidance on technical decisions, technology investments, and digital transformation.",
       "short_desc": "Get expert guidance for critical programming and software decisions or ongoing support for your digital transformation. We help you make the right technical choices faster.",
       "detail_desc": [
         {
           "title": "About Consultancy",
-          "content_html": "<p>Expert software mentoring and consulting for both developers and decision-makers. We help programmers master new technologies and best practices, while guiding business leaders through strategic technology choices and digital transformation. From hands-on code reviews to technology investment advisory, we deliver practical guidance based on real experience across startups and enterprise organizations.</p>"
+          "content_html": "<p>Expert software mentoring and consulting for both developers and decision makers. We help programmers master new technologies and best practices, while guiding business leaders through strategic technology choices and digital transformation. From hands on code reviews to technology investment advisory, we deliver practical guidance based on real experience across startups and enterprise organizations.</p>"
         }
       ],
-      "why_buy": "Skip expensive trial and error in your programming journey. Get immediate access to proven strategies and best practices from years of experience. We understand your specific challenges, provide hands-on guidance, and help you avoid costly mistakes. Smart technical and programming decisions from day one, not generic solutions.",
+      "why_buy": "Skip expensive trial and error in your programming journey. Get immediate access to proven strategies and best practices from years of experience. We understand your specific challenges, provide hands on guidance, and help you avoid costly mistakes. Smart technical and programming decisions from day one, not generic solutions.",
       "info": "As a first step, we offer a free online preliminary assessment meeting. Depending on the scope of your project, our consulting services are approximately $35 per hour.",
       "open": "true"
     },
@@ -281,22 +281,22 @@
       "category_url": "consultancies",
       "name": "Open Source AI Models Integration",
       "price": "$35.00",
-      "url_name": "consultancy-open-source-ai",
-      "full_url": "anatolia.solutions/services/consultancy-open-source-ai.html",
+      "url_name": "consultancy-opensource-ai",
+      "full_url": "anatolia.solutions/services/consultancy-opensource-ai.html",
       "pay_url": "buy.stripe.com/5kA5kLdQY8LrbWoaEH",
       "images": [
-        "consultancy-open-source-ai.png"
+        "consultancy-opensource-ai.png"
       ],
-      "keywords": "open source AI integration, self-hosted AI models, offline AI deployment, isolated AI environments, on-premise AI solutions, secure AI implementation",
-      "html_desc": "Strategic guidance for integrating open source AI models into your business systems. Expert consulting on offline deployment, isolated environments, model selection, and secure production-ready implementation strategies.",
-      "short_desc": "Deploy open source AI models in secure, offline, and isolated environments. Get strategic consulting on model selection, deployment architecture, and production integration. Keep sensitive data private while leveraging AI capabilities. Transform experimental technology into reliable on-premise business solutions.",
+      "keywords": "open source AI integration, self hosted AI models, offline AI deployment, isolated AI environments, on premise AI solutions, secure AI implementation",
+      "html_desc": "Strategic guidance for integrating open source AI models into your business systems. Expert consulting on offline deployment, isolated environments, model selection, and secure production ready implementation strategies.",
+      "short_desc": "Deploy open source AI models in secure, offline, and isolated environments. Get strategic consulting on model selection, deployment architecture, and production integration. Keep sensitive data private while leveraging AI capabilities. Transform experimental technology into reliable on premise business solutions.",
       "detail_desc": [
         {
           "title": "About Consultancy",
-          "content_html": "<p>Deploy open source AI models securely in offline and isolated environments without sending sensitive data to external services. We help organizations select, deploy, and integrate models like Llama, DeepSeek, Qwen, and Granite that run entirely on-premise, maintaining complete data privacy and control.</p><p>Our end-to-end consulting covers offline deployment architecture, isolated environment setup, infrastructure assessment, and secure production integration. Whether you need air-gapped AI systems for sensitive operations or private deployments for regulatory compliance, we ensure seamless integration while maintaining security standards.</p><p>Move beyond cloud-dependent AI to self-hosted, production-ready solutions. Our proven methodologies eliminate costly mistakes, reduce vendor lock-in, and accelerate deployment while keeping your data completely private and under your control.</p>"
+          "content_html": "<p>Deploy open source AI models securely in offline and isolated environments without sending sensitive data to external services. We help organizations select, deploy, and integrate models like Llama, DeepSeek, Qwen, and Granite that run entirely on premise, maintaining complete data privacy and control.</p><p>Our end to end consulting covers offline deployment architecture, isolated environment setup, infrastructure assessment, and secure production integration. Whether you need air gapped AI systems for sensitive operations or private deployments for regulatory compliance, we ensure seamless integration while maintaining security standards.</p><p>Move beyond cloud dependent AI to self hosted, production ready solutions. Our proven methodologies eliminate costly mistakes, reduce vendor lock in, and accelerate deployment while keeping your data completely private and under your control.</p>"
         }
       ],
-      "why_buy": "Cloud AI services expose your sensitive data and create vendor dependencies. Open source AI offers offline capability and complete control but deployment complexity stops most organizations. Get expert guidance to deploy secure, isolated AI environments. Skip expensive trial-and-error, avoid data privacy risks, and gain production-ready solutions that work completely offline.",
+      "why_buy": "Cloud AI services expose your sensitive data and create vendor dependencies. Open source AI offers offline capability and complete control but deployment complexity stops most organizations. Get expert guidance to deploy secure, isolated AI environments. Skip expensive trial and error, avoid data privacy risks, and gain production ready solutions that work completely offline.",
       "info": "As a first step, we offer a free online preliminary assessment meeting. Depending on the scope of your project, our consulting services are approximately $35 per hour."
     },
     {
@@ -316,7 +316,7 @@
       "detail_desc": [
         {
           "title": "About Consultancy",
-          "content_html": "<p>Transform legacy applications into modern, efficient, and secure systems. We analyze your software architecture to identify bottlenecks, unnecessary dependencies, and technical debt that increase costs and slow innovation.</p><p>Our systematic refactoring approach restructures systems to be maintainable, scalable, and aligned with modern development practices. We reduce dependencies, integrate advanced technologies, and ensure compatibility with contemporary platforms.</p><p>Every modernization strategy is tailored to your business goals and technical environment. The result is improved functionality, reduced long-term risks, lower maintenance overhead, and software that enables innovation rather than blocking it.</p>"
+          "content_html": "<p>Transform legacy applications into modern, efficient, and secure systems. We analyze your software architecture to identify bottlenecks, unnecessary dependencies, and technical debt that increase costs and slow innovation.</p><p>Our systematic refactoring approach restructures systems to be maintainable, scalable, and aligned with modern development practices. We reduce dependencies, integrate advanced technologies, and ensure compatibility with contemporary platforms.</p><p>Every modernization strategy is tailored to your business goals and technical environment. The result is improved functionality, reduced long term risks, lower maintenance overhead, and software that enables innovation rather than blocking it.</p>"
         }
       ],
       "why_buy": "Legacy systems drain resources, limit innovation, and create security risks. Technical debt grows more expensive every day. Our specialized refactoring approach transforms legacy burdens into competitive advantages. Stop firefighting endless issues and gain streamlined systems that empower your team to innovate and respond quickly to market demands.",
@@ -334,12 +334,12 @@
         "consultancy-move-to-linux.png"
       ],
       "keywords": "windows to linux migration, migrate from windows to linux, linux migration services, linux consulting, linux infrastructure optimization, enterprise linux migration strategy",
-      "html_desc": "Expert guidance for Windows-based development teams transitioning to Linux environments with minimal disruption, preserving workflows while unlocking cost savings and performance benefits.",
-      "short_desc": "Transition Windows-based development teams to Linux with minimal disruption. Our proven migration strategies preserve workflows while unlocking significant cost savings through eliminated licensing fees and cloud cost optimization. Gain performance improvements and securely configured isolated resources.",
+      "html_desc": "Expert guidance for Windows based development teams transitioning to Linux environments with minimal disruption, preserving workflows while unlocking cost savings and performance benefits.",
+      "short_desc": "Transition Windows based development teams to Linux with minimal disruption. Our proven migration strategies preserve workflows while unlocking significant cost savings through eliminated licensing fees and cloud cost optimization. Gain performance improvements and securely configured isolated resources.",
       "detail_desc": [
         {
           "title": "About Consultancy",
-          "content_html": "<p>Transition Windows-based development teams to Linux seamlessly with minimal disruption and measurable efficiency gains. Our end-to-end approach covers migration planning, tool configuration, infrastructure optimization, and team training for smooth adoption.</p><p>We configure development environments, establish streamlined workflows, and build infrastructure leveraging Linux's full flexibility and power. Each migration strategy preserves familiar workflows while unlocking significant cost savings through eliminated licensing fees and cloud cost optimization strategies.</p><p>Expert guidance for cloud integration across AWS, Azure, Hetzner, and Linode, plus securely configured isolated resources and optimized resource management. Your team gains powerful new capabilities, reduced infrastructure costs, and maintained productivity throughout the transition.</p>"
+          "content_html": "<p>Transition Windows based development teams to Linux seamlessly with minimal disruption and measurable efficiency gains. Our end to end approach covers migration planning, tool configuration, infrastructure optimization, and team training for smooth adoption.</p><p>We configure development environments, establish streamlined workflows, and build infrastructure leveraging Linux's full flexibility and power. Each migration strategy preserves familiar workflows while unlocking significant cost savings through eliminated licensing fees and cloud cost optimization strategies.</p><p>Expert guidance for cloud integration across AWS, Azure, Hetzner, and Linode, plus securely configured isolated resources and optimized resource management. Your team gains powerful new capabilities, reduced infrastructure costs, and maintained productivity throughout the transition.</p>"
         }
       ],
       "why_buy": "Windows licensing fees drain budgets monthly while limiting team potential. Stop burning money on unnecessary licenses and expensive cloud infrastructure. Our proven migration approach unlocks massive cost savings through eliminated licensing and cloud cost optimization. Gain superior performance and modern flexibility without disrupting productivity or team momentum.",
@@ -356,13 +356,13 @@
       "images": [
         "consultancy-custom-operating-system.png"
       ],
-      "keywords": "custom operating system, linux-based OS development, kernel optimization, enterprise workstations, workflow automation, business-specific systems",
-      "html_desc": "Custom Linux-based operating system development for enterprise workflows. Kernel-level optimizations and specialized workstations delivering complete operational control, security, and maximum efficiency.",
-      "short_desc": "Develop custom Linux-based operating systems tailored to your enterprise workflows. Kernel optimizations and specialized configurations deliver lean, secure systems perfectly aligned with your business processes while ensuring complete operational control.",
+      "keywords": "custom operating system, linux based OS development, kernel optimization, enterprise workstations, workflow automation, business specific systems",
+      "html_desc": "Custom Linux based operating system development for enterprise workflows. Kernel level optimizations and specialized workstations delivering complete operational control, security, and maximum efficiency.",
+      "short_desc": "Develop custom Linux based operating systems tailored to your enterprise workflows. Kernel optimizations and specialized configurations deliver lean, secure systems perfectly aligned with your business processes while ensuring complete operational control.",
       "detail_desc": [
         {
           "title": "About Consultancy",
-          "content_html": "<p>Design and implement custom Linux-based operating system solutions aligned seamlessly with your business workflows. Move beyond generic systems by creating tailored computing environments that streamline operations and enhance productivity.</p><p>Our expertise covers kernel-level optimizations maximizing hardware utilization and user-space enhancements simplifying workflows. Built on proven open-source foundations, we ensure robust security, reliable performance, and seamless infrastructure integration.</p><p>Complete solutions translating business requirements into powerful operating systems. Develop enterprise workstations optimized for industry-specific processes, operating precisely as your organization needs with complete control over every system component.</p>"
+          "content_html": "<p>Design and implement custom Linux based operating system solutions aligned seamlessly with your business workflows. Move beyond generic systems by creating tailored computing environments that streamline operations and enhance productivity.</p><p>Our expertise covers kernel level optimizations maximizing hardware utilization and user space enhancements simplifying workflows. Built on proven open source foundations, we ensure robust security, reliable performance, and seamless infrastructure integration.</p><p>Complete solutions translating business requirements into powerful operating systems. Develop enterprise workstations optimized for industry specific processes, operating precisely as your organization needs with complete control over every system component.</p>"
         }
       ],
       "why_buy": "Generic operating systems force compromises, wasting resources on unused features while lacking capabilities your workflows demand. Stop accepting limitations that slow your team and create security vulnerabilities. Gain complete control with custom systems optimized specifically for your industry, eliminating bloat and enabling maximum efficiency.",
@@ -379,9 +379,9 @@
       "images": [
         "consultancy-vendor-evaluation.png"
       ],
-      "keywords": "vendor risk assessment, supply chain security, third-party evaluation, dependency analysis, competitive threat assessment",
+      "keywords": "vendor risk assessment, supply chain security, third party evaluation, dependency analysis, competitive threat assessment",
       "html_desc": "Comprehensive vendor ecosystem and supply chain risk assessment using software expertise. Identify hidden dependencies, integration vulnerabilities, and competitive threats that could disrupt operations before they impact your business.",
-      "short_desc": "Identify hidden risks in your vendor ecosystem through comprehensive dependency assessment. We uncover vulnerabilities in software supply chains, third-party integrations, and vendor relationships. Build resilience against disruptions, competitive threats, and security breaches through strategic diversification and contingency planning.",
+      "short_desc": "Identify hidden risks in your vendor ecosystem through comprehensive dependency assessment. We uncover vulnerabilities in software supply chains, third party integrations, and vendor relationships. Build resilience against disruptions, competitive threats, and security breaches through strategic diversification and contingency planning.",
       "detail_desc": [
         {
           "title": "About Consultancy",
