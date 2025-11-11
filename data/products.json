@@ -80,12 +80,12 @@
       "category_url": "study-guides",
       "name": "Notorious Programming Related Faults in History Study Guide in Turkish",
       "price": "$10.00",
-      "url_name": "book-tarihe-gecen-programatik-hatalar",
-      "full_url": "anatolia.solutions/products/book-tarihe-gecen-programatik-hatalar.html",
+      "url_name": "book-tarihe-gecen-programatik-felaketler",
+      "full_url": "anatolia.solutions/products/book-tarihe-gecen-programatik-felaketler.html",
       "pay_url": "buy.stripe.com/aFa4gA3NE4SDdAj452cQU0b",
       "keywords": "software failure case studies, famous programming bugs, security breach history, software reliability lessons, programming mistakes, post mortem analysis, tech disaster stories, software engineering failures, configuration errors, critical software bugs",
       "images": [
-        "book-tarihe-gecen-programatik-hatalar.png"
+        "book-tarihe-gecen-programatik-felaketler.png"
       ],
       "html_desc": "Learn from real world software disasters and security breaches through detailed case studies of famous programming failures. Strengthen your critical thinking with post incident analysis and practical lessons for building reliable systems.",
       "short_desc": "The Notorious Programming Related Faults in History Study Guide examines real world software disasters through detailed case studies of famous failures and security breaches. From configuration errors and unsafe updates to weak authentication and overlooked vulnerabilities, each incident reveals how small mistakes escalated into major outages, data leaks, and financial losses. With clear explanations, post incident analysis, and practical lessons learned, this guide helps both technical and non technical readers develop a security conscious mindset and understand software reliability. By studying what went wrong and how recovery was managed, you'll sharpen your critical thinking and learn to recognize risks before they become costly mistakes.",
@@ -119,7 +119,7 @@
         },
         {
           "title": "Professional Workflow Integration",
-          "content_html": "<p>The system enforces software engineering best practices naturally. Branch protection rules prevent direct commits to production. Pull request workflows enable peer review before content goes live. Merge conflicts reveal when team members edit the same sections simultaneously. GitHub Actions can automatically validate JSON syntax before deployment. This transforms content management into a disciplined process rather than ad hoc changes that bypass oversight.</p>"
+          "content_html": "<p>The system enforces software engineering best practices naturally. Branch protection rules prevent direct commits to production. Pull request workflows enable peer review before content goes live. This transforms content management into a disciplined process rather than ad hoc changes that bypass oversight.</p>"
         },
         {
           "title": "Complete Setup and Training Included",
