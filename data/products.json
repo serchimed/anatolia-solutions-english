@@ -97,6 +97,36 @@
       ],
       "why_buy": "The Notorious Programming Related Faults in History Study Guide turns famous software failures into practical lessons. Instead of simply listing bugs and crashes, it explains their root causes and what could have been done differently. By studying these real world cases, you'll sharpen your critical thinking, improve your understanding of software reliability, and gain insights that help you avoid costly mistakes in your own projects.",
       "info": "This study guide has currently been prepared only in Turkish. If you would like it to be available in other languages, feel free to make a request, and we will consider it."
+    },
+    {
+      "category": "Software Solutions",
+      "category_url": "software-solutions",
+      "name": "Lightweight Website System",
+      "price": "$200.00",
+      "url_name": "lightweight-website-system",
+      "full_url": "anatolia.solutions/products/lightweight-website-system.html",
+      "pay_url": "buy.stripe.com/3cIfZigAqbh153NfNKcQU0d",
+      "keywords": "static website generator, database free website, cloudflare hosting, github pages, secure website solution, sql injection proof, json based website, low maintenance website, serverless website, ddos protected website, version controlled content, framework free website",
+      "images": [
+        "lightweight-website-system.png"
+      ],
+      "html_desc": "Database free static website system using GitHub Pages and Cloudflare for secure, high performance sites with SSL, DDoS protection, and zero server maintenance.",
+      "short_desc": "Build secure, high performance websites without databases or server management. GitHub Pages provides SSL configuration while Cloudflare DNS adds DDoS mitigation and secure DNS features. Update content through JSON files with automatic version control, and generate optimized HTML via bash scripts.",
+      "detail_desc": [
+        {
+          "title": "Inherently Secure Architecture",
+          "content_html": "<p>Static HTML architecture eliminates entire categories of vulnerabilities. SQL injection becomes physically impossible without a database. No server configuration means no firewall rules to manage, no security patches to install, and no exposed ports to protect. Cloudflare Rules let you build custom security policies like geographic blocking, browser integrity checks, and bot detection patterns tailored to your needs. DNSSEC validation ensures DNS responses haven't been tampered with during transit.</p>"
+        },
+        {
+          "title": "Professional Workflow Integration",
+          "content_html": "<p>The system enforces software engineering best practices naturally. Branch protection rules prevent direct commits to production. Pull request workflows enable peer review before content goes live. Merge conflicts reveal when team members edit the same sections simultaneously. GitHub Actions can automatically validate JSON syntax before deployment. This transforms content management into a disciplined process rather than ad hoc changes that bypass oversight.</p>"
+        },
+        {
+          "title": "Complete Setup and Training Included",
+          "content_html": "<p>We handle the entire technical setup for you. This includes configuring your domain with Cloudflare nameservers, connecting your GitHub repository to Pages, enabling SSL certificates, and establishing Cloudflare Rules for your security requirements. Your system arrives ready to use with your chosen template installed and configured. If you haven't worked with HTML or JSON editing before, we provide hands on training to make you comfortable managing your content. You'll learn exactly what to edit, how to commit changes safely, and how to use version control to prevent mistakes. No prior technical experience required.</p>"
+        }
+      ],
+      "why_buy": "Traditional websites demand constant security patches, database maintenance, and server management. Plugins need updates, frameworks create compatibility nightmares, and databases expose injection vulnerabilities. This system eliminates those problems. We configure everything for you including SSL, Cloudflare protection, and your template. If you're new to JSON or HTML, training is included. Deploy once with our setup assistance, then manage content confidently with zero ongoing maintenance."
     }
   ]
 }
